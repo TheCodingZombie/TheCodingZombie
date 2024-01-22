@@ -5,8 +5,11 @@
 -       Starting new projects
 -       Gaining experience
 - 🌱 I’m currently learning:
-- 
+-       C++
+-       Java
+-       SQL
 - 💞️ I’m looking to collaborate on:
--      
+-       Upcoming Games
+-       Programming Projects
 - 📫 How to reach me:
 -       LinkedIn: https://www.linkedin.com/in/lance-guevarra-4937b2253/
