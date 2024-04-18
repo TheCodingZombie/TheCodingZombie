@@ -12,7 +12,7 @@ These are the skills and programming languages I've learned and used:<br>
 I've been learning how to use Ubuntu and code in Prolog and Go. <br>
 I also have a lot of experience in Graphic Design and Videography because of my various social media channels! <br>
 
-## Numbers? Numbers!
+## 📈 Numbers? Numbers!
 
 [![Lance's GitHub stats](https://github-readme-stats.vercel.app/api?username=thecodingzombie)](https://github.com/anuraghazra/github-readme-stats)
 
