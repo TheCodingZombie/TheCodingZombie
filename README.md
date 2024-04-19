@@ -14,7 +14,7 @@ I also have a lot of experience in Graphic Design and Videography because of my 
 
 ## 📈 Numbers? Numbers!
 
-[![Lance's GitHub stats](https://github-readme-stats.vercel.app/api?username=thecodingzombie)](https://github.com/anuraghazra/github-readme-stats)
+[![Lance's GitHub stats](https://github-readme-stats.vercel.app/api?username=thecodingzombie)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thecodingzombie)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 👥 Find me:
