@@ -8,7 +8,7 @@ I am an aspiring software engineer and video game designer, studying for my Bach
 
 ## 🧠 Experience?
 These are the skills and programming languages I've learned and used:<br>
-[![My Skills](https://skillicons.dev/icons?i=blender,c,cs,cpp,css,godot,html,java,js,linux,ps,pr,py,sqlite,unity,unreal,vscode&perline=12)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=blender,c,cs,cpp,css,godot,html,java,js,linux,lua,ps,pr,py,sqlite,unity,unreal,vscode&perline=12)](https://skillicons.dev)<br><br>
 I've been learning how to use Ubuntu and code in Prolog and Go. <br>
 I also have a lot of experience in Graphic Design and Videography because of my various social media channels! <br>
 
