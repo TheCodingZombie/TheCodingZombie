@@ -19,5 +19,5 @@ I also have a lot of experience in Graphic Design and Videography because of my 
 
 ## 👥 Find me:
 - Making educational videos on some of my favorite games on [Youtube](https://www.youtube.com/@TheSocialZombie).
-- Competing in game jams on [itch.io](https://thesocialzombie.itch.io/).
+- Competing in game jams and posting about my gaming projects on [itch.io](https://thesocialzombie.itch.io/).
 - Sharing updates on [LinkedIn](https://www.linkedin.com/in/GuevarraLance/).
