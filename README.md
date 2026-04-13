@@ -8,8 +8,8 @@ I am a software engineer and video game designer, studying for my Bachelor's in 
 
 ## 🧠 Experience?
 These are the skills and programming languages I've learned and used:<br>
-[![My Skills](https://skillicons.dev/icons?i=blender,c,cs,cpp,css,godot,html,java,js,linux,lua,ps,pr,py,sqlite,unity,unreal,vscode&perline=12)](https://skillicons.dev)<br><br>
-I've been learning how to use Ubuntu and code in Prolog and Go. <br>
+[![My Skills](https://skillicons.dev/icons?i=arch,blender,c,cs,cpp,css,go,godot,html,java,js,linux,lua,ps,pr,py,sqlite,ubuntu,unity,unreal,vscode&perline=12)](https://skillicons.dev)<br><br>
+I've been learning how to use and code in Prolog. <br>
 I also have a lot of experience in Graphic Design and Videography because of my various social media channels! <br>
 
 ## 📈 Numbers? Numbers!
